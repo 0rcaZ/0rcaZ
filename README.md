@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Orca
-- 🌱 Currently learnind Unity and Blender.
+- 🌱 Currently learning Unity and Blender.
